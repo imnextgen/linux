@@ -5,7 +5,7 @@ Welcome! This site provides usage examples and tips for a variety of command-lin
 ## Available Commands
 
 - [duf](commands/duf.md)
-- [ls](commands/ls.md)
+- [rsync](commands/rsync.md)
 - [grep](commands/grep.md)
 <!-- Add more commands here -->
 
