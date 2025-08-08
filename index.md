@@ -6,7 +6,7 @@ Welcome! This site provides usage examples and tips for a variety of command-lin
 
 - [duf](commands/duf.md)
 - [rsync](commands/rsync.md)
-- [grep](commands/grep.md)
+- [sshpass](commands/sshpass.md)
 <!-- Add more commands here -->
 
 Click a command to view detailed usage!
